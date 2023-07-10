@@ -1,5 +1,5 @@
 import express from "express";
-import { bot } from "./bot/bot";
+import { bot } from "./src/bot/bot";
 
 const app = express();
 
